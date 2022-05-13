@@ -8,9 +8,9 @@ off_train: [user_id, merchant_id, coupon_id, discount_rate, distance, date_recei
 off_test: [user_id, merchant_id, coupon_id, discount_rate, distance, date_received]
 
 ## Results
-[]()
-[]()
-[]()
-[]()
-[]()
+[Main file](https://github.com/Ziziaozzz/Machine-learning_coupon-redemption/blob/main/Prediction%20of%20coupon%20redemption_main.ipynb)
+[Explore the data](https://github.com/Ziziaozzz/Machine-learning_coupon-redemption/blob/main/Prediction%20of%20coupon%20redemption_explore%20data.ipynb)
+[Feature engineering](https://github.com/Ziziaozzz/Machine-learning_coupon-redemption/blob/main/Prediction%20of%20coupon%20redemption_feature%20engineering.ipynb)
+[Modeling](https://github.com/Ziziaozzz/Machine-learning_coupon-redemption/blob/main/Prediction%20of%20coupon%20redemption_modeling.ipynb)
+[Model validation](https://github.com/Ziziaozzz/Machine-learning_coupon-redemption/blob/main/Prediction%20of%20coupon%20redemption_model%20validation.ipynb)
 
